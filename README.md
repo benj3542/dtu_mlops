@@ -171,6 +171,6 @@ If you use parts of this course in your own work, please cite using:
     author       = {Nicki Skafte Detlefsen},
     title        = {Machine Learning Opeartions},
     howpublished = {\url{https://github.com/SkafteNicki/dtu_mlops}},
-    year         = {2022}
+    year         = {2023}
 }
 ```
